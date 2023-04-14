@@ -5,6 +5,8 @@ Página baseada no [repositório de desafios da DIO (CV Online)](https://github.
 O HTML deste repositório usa [referências do tutorial W3C.CSS do W3 Schools](https://www.w3schools.com/howto/howto_website_create_resume.asp
 ).
 
+A página pode ser visualizada clicando [aqui](https://kmkery.github.io/projeto-CV_potencia-tech-angular-powerd-by-ifood/).
+
 Alterações feitas aqui:
 
  - Adição de modo escuro
