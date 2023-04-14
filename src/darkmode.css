@@ -1,0 +1,22 @@
+.dark-mode-body {
+    background-color: #181818;
+}
+
+.dark-background-bar {
+    background-color: #2f3033;
+}
+
+.dark-container, .dark-mode-button {
+    background-color: #202020;
+    color: #a0a0a0;
+}
+
+.dark-mode-button {
+    border: 1px solid #302f2f;
+    box-shadow: 2px 2px #1c1c1d ;
+}
+
+.dark-mode-button:hover {
+    background-color: #0a143b;
+}
+

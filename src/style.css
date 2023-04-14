@@ -1,0 +1,35 @@
+
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+}
+.button-container {
+    margin: 10px;
+    height: 25px;
+}
+
+.mode-button {
+    width: 170px;
+    margin-right: 7px;
+    padding: 5px 10px;
+    float:right; 
+    border: 1px solid #b3b3b3;
+    border-radius: 7px; 
+    box-shadow: 2px 2px #9ea0a7 ;
+    font-size: .8rem;
+    filter: brightness(1.2);
+    color: #424247;
+}
+
+.mode-button:hover {
+    background-color: rgb(163, 173, 230);
+    cursor: pointer;
+}
+
+.mode-button:active {
+    width: 165px;
+    box-shadow: none;
+}
+
+a {
+    text-decoration: none;
+}

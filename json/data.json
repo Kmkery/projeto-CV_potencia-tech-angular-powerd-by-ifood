@@ -1,0 +1,47 @@
+[{
+    "user_name": "Kmkery",
+    "user_occupation": "I'm a hiker in web development world",
+    "user_local": "São Paulo/Brazil",
+    "user_email": "",
+    "user_phone": "",
+    "user_skills": [
+        {"skill": "Javascript", "level": 90},
+        {"skill": "Bootstrap", "level": 45},
+        {"skill": "ReactJS", "level": 45},
+        {"skill": "jQuery", "level": 30},
+        {"skill": "Sass", "level": 10},
+        {"skill": "NodeJS", "level": 40},
+        {"skill": "ExpressJS", "level": 40},
+        {"skill": "MongoDB", "level": 40},
+        {"skill": "Firebase", "level": 45}
+    ],
+    "user_languages": [
+        {"language": "Portuguese", "level": 100},
+        {"language": "English", "level": 65}
+    ],
+    "user_about": "I love programming... A few years ago I discovered this and, since then, I've been venturing into Web Development for just over 5 years, studying and learning a little more each day, to become a good developer. Note: for privacy reasons, I chose to make this page just an example with very reduced informations, so the content contained therein does not reflect my complete curriculum.",
+    "user_experiences": [
+        {"experience": "Front End Development", "period": {"start": "2018", "conclusion": ""}, "experience_description": "Development of web pages and applications, mainly in pure javascript."},
+        {"experience": "Microelectronic", "period": {"start": "2001", "conclusion": "2010"}, "experience_description": "Electronic Development Tech."}
+    ],
+    "user_education": [
+        {"institution": "DIO - Potência Tech Angular - Powered By IFood (75 hours)", "period": {"start": "2023/03", "conclusion": ""}, "education_description": "A bootcamp promoted by DIO and created by IFood to support the training of professionals in the technology field (basic to intermediate).", "subjects": [{"subject_name": "GIT and GitHub", "subject_link":  ""}, {"subject_name":"Javascript", "subject_link":  ""}, {"subject_name":"Angular", "subject_link":  ""}, {"subject_name":"Projects Challenges", "subject_link":  ""}]}, 
+        {"institution": "Ocean Brasil Samsung (18 hours)", "period": {"start": "2023/02", "conclusion": "2023/02"}, "education_description": "Full Stack Development Course - MERN Stack (basic to intermediate)", "subjects": [{"subject_name": "Node JS and Express", "subject_link":  ""}, {"subject_name":"MongoDB", "subject_link":  ""}, {"subject_name":"React JS + Vite", "subject_link":  ""}, {"subject_name":"Full Website Project (Backend and Frontend)", "subject_link":  ""}]},
+        {"institution": "CJRM (+60 hours)", "period": {"start": "2021/10", "conclusion": ""}, "education_description": "Intensive Javascript Course (advanced)", "subjects": [{"subject_name":"Javascript (all important topics)", "subject_link":  ""}, {"subject_name":"Synchronous and Asynchronous Requests in Javascript", "subject_link":  ""},{"subject_name":"Databases and Firebase", "subject_link":  ""}, {"subject_name":"Projects Challenges", "subject_link":  ""}]}, 
+        {"institution": "Impacta Treinamentos (60 hours)", "period": {"start": "2019/11", "conclusion": "22019/12"}, "education_description": "Web Application Development (basic to intermediate)", "subjects": [{"subject_name": "HTML5 and CSS3", "subject_link":  ""}, {"subject_name":"Javascript and jQuery", "subject_link":  ""}, {"subject_name":"PhoneGap", "subject_link":  ""}, {"subject_name":"Project Challenge", "subject_link":  ""}]}
+    ],
+    "user_projects": [
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/js-developer-pokedex", "project_description":"", "inProgress": true},
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/projeto1-potencia-tech-angular-powerd-by-ifood", "project_description":"", "inProgress": false},
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/CJRM_03-13_etapa15", "project_description":"", "inProgress": false},
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/WeatherApp", "project_description":"", "inProgress": false},
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/Conversor-de-Moeda", "project_description":"", "inProgress": false},
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/To-Do-List", "project_description":"", "inProgress": false},
+        {"project_icon":"fa fa-github", "project_link": "https://github.com/Kmkery/Quiz", "project_description":"", "inProgress": false}
+    ],
+    "user_medias": [
+        {"media_icon": "fa fa-github", "media_link": "https://github.com/Kmkery"},
+        {"media_icon": "fa fa-free-code-camp", "media_link": "https://www.freecodecamp.org/Kmkery"}
+    ]
+
+}]
